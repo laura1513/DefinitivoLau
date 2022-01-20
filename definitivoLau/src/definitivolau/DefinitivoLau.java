@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class DefinitivoLau {
     /**
-     * Método main
+     * Método principal
      *
      * @param args the command line arguments
      */
